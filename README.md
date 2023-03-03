@@ -1,6 +1,11 @@
 # Budget-Planner-Pal
 A helpful way to track your expenses
 
+## Technology
+
+ - Full stack Ruby on Rails
+ - PostgreSQL
+
 ## User Stories
 
  - As a user, I want to be able to sign up for an account
