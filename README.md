@@ -35,5 +35,5 @@ A helpful way to track your expenses
  - Expenses belongs_to Category
  - User has_many Expenses
  - User has_many Categories, through Expenses
- - Category has_many Expanses
+ - Category has_many Expenses
  - Category has_many Users, through Expenses
