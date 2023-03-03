@@ -24,3 +24,11 @@ A helpful way to track your expenses
 
 ![Screenshot 2023-03-03 at 13 42 20](https://user-images.githubusercontent.com/114579141/222735096-9f7f6f85-b73c-48bc-9ae6-29475a6fc9ca.png)
 
+#### Active Record Associations
+
+ - Expenses belongs_to User
+ - Expenses belongs_to Category
+ - User has_many Expenses
+ - User has_many Categories, through Expenses
+ - Category has_many Expanses
+ - Category has_many Users, through Expenses
