@@ -15,7 +15,9 @@ A helpful way to track your expenses
 
 ## Wireframe
 
-![Screenshot 2023-03-03 at 13 34 30](https://user-images.githubusercontent.com/114579141/222734717-36e3cade-a6f9-43e4-a5e8-eeea902321f9.png)
+![Screenshot 2023-03-03 at 14 51 04](https://user-images.githubusercontent.com/114579141/222751688-eeb4be01-1658-4377-9b66-08471577abac.png)
+
+![Screenshot 2023-03-03 at 14 51 13](https://user-images.githubusercontent.com/114579141/222751713-cc67deaa-53af-4972-a0b0-9022d0e7e93a.png)
 
 
 ## ERD
